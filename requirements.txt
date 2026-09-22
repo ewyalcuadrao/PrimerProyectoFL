@@ -19,3 +19,4 @@ jaxlib==0.4.23
 portpicker
 tensorflow-model-optimization==0.7.5
 typing-extensions==4.5.0
+matplotlib==3.11.2

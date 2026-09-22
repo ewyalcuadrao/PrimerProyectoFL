@@ -17,3 +17,6 @@ __pycache__/
 # Salidas y secretos locales
 *.log
 .env
+
+# Imágenes generadas por los ejemplos
+*.png
