@@ -5,10 +5,8 @@ Proyecto experimental con TensorFlow Federated.
 ## Preparar el entorno
 
 ```bash
-python3 -m venv tff_env
+./setup.sh
 source tff_env/bin/activate
-python -m pip install --upgrade pip
-python -m pip install -r requirements.txt
 ```
 
 ## Ejecutar la prueba
