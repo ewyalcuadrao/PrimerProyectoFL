@@ -1,0 +1,15 @@
+tensorflow==2.14.1
+tensorflow-federated==0.86.0
+tensorflow-privacy==0.9.0
+numpy~=1.25.0
+ml-dtypes==0.2.0
+keras==2.14.0
+tensorflow-estimator==2.14.0
+protobuf==4.25.3
+scipy~=1.9.3
+attrs==23.1.0
+dm-tree==0.1.8
+wrapt==1.14.2
+tqdm==4.66.4
+google-vizier==0.1.11
+grpcio-tools==1.59.3

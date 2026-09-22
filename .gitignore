@@ -1,0 +1,19 @@
+# Entorno virtual y cachés de Python
+tff_env/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Configuración local de editores y sistema
+.vscode/
+.idea/
+.DS_Store
+
+# Salidas y secretos locales
+*.log
+.env
