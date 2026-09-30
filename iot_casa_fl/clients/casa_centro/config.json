@@ -1,0 +1,9 @@
+{
+  "client_id": "casa_centro",
+  "description": "Piso urbano con teletrabajo entre semana",
+  "profile": "remote_worker",
+  "indoor_temp_c": 21.5,
+  "outdoor_offset_c": 1.0,
+  "appliance_intensity": 0.75,
+  "seed": 1201
+}

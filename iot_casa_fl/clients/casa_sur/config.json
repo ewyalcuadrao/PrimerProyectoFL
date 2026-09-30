@@ -1,0 +1,9 @@
+{
+  "client_id": "casa_sur",
+  "description": "Vivienda con ocupacion diurna frecuente y clima calido",
+  "profile": "daytime",
+  "indoor_temp_c": 23.0,
+  "outdoor_offset_c": 5.0,
+  "appliance_intensity": 0.9,
+  "seed": 3403
+}

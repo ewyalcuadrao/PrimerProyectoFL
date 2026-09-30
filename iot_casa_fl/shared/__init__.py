@@ -1,0 +1,1 @@
+"""Modelo y utilidades compartidas por servidor y clientes."""
